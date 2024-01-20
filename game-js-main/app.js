@@ -1,5 +1,5 @@
 alert('Boas vindas ao jogo do número secreto');
-let numeroSecreto = 4;
+let numeroSecreto = 8;
 console.log(numeroSecreto);
 let chute = prompt('Escolha um número ente 1 e 10');
 
@@ -9,5 +9,8 @@ if (numeroSecreto == chute) {
 } else {
     alert('Você errou!');
 }
+
+
+
 
 
